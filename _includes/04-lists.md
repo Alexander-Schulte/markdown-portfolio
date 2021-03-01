@@ -1,4 +1,4 @@
- * Item soccer
- * Item basketball
- * Item volleyball
- * Item american football
+ * soccer
+ * basketball
+ * volleyball
+ * american football
