@@ -13,4 +13,4 @@ layout: default
 
 <br>
 
-[This is my first example](http://github.com)
+[text](https://example.com)
