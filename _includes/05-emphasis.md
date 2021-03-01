@@ -1,1 +1,1 @@
-I __love__  sport, especially **soccer** :glitter
+I __love__  sport, especially **soccer** 
